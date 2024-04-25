@@ -1,0 +1,10 @@
+#app {
+  text-align: center;
+}
+#title {
+  color: green;
+}
+.subcontainer {
+  display: flex;
+  justify-content: space-evenly;
+}
